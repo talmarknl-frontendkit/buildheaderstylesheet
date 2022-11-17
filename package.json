@@ -1,0 +1,12 @@
+{
+  "name": "frontendkit-buildheaderstylesheet",
+  "version": "1.0.0",
+  "description": "Generared html file with an unique list of css files. Overwritten css files are loaded-in once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Valkenburg",
+  "license": "ISC"
+}
