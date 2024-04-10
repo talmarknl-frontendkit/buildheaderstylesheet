@@ -21,4 +21,4 @@ function priocopyfiles() {
     }
     fs.writeFileSync(settings.outputFile, html);
 }
-priocopyfiles();
+priocopyfiles();;
